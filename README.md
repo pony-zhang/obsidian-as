@@ -1,2 +1,3 @@
 # obsidian-as
-booknote
+
+# [[OpenCV]]
